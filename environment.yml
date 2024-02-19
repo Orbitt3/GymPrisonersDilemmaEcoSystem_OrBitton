@@ -1,0 +1,10 @@
+name: py39
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - anaconda
+  - tensorflow-deps
+  - anaconda-clean
+  - pandas
+prefix: /Users/orbitton/miniforge3/envs/py39
